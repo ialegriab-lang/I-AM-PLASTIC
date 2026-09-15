@@ -24,8 +24,7 @@ CSS
 Quiero construir un documento digital sobre: Una curaduría digital del libro I AM PLASTIC que da a conocer obras Art Toys por diseñadores 
 
 **[TEMA]**
-
-Necesito organizar información sobre: Jerarquiza la informaciòn quiero que cada art toy tenga un tagline como el primer ejemplo y debe quedar con el estilo de una página web. igual corrige cualquier error ortográfico y estructura oraciones si lo ves necesario.
+ Jerarquiza la informaciòn quiero que cada art toy tenga un tagline como el primer ejemplo y debe quedar con el estilo de una página web. igual corrige cualquier error ortográfico y estructura oraciones si lo ves necesario.
 
 **[TIPO DE CONTENIDO O COLECCIÓN]**
 
