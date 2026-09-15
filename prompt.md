@@ -21,7 +21,7 @@ CSS
 
 # Prompt base
 
-Quiero construir un documento digital sobre:
+Quiero construir un documento digital sobre: Una curaduría digital del libro I AM PLASTIC que da a conocer obras Art Toys por diseñadores 
 
 **[TEMA]**
 
