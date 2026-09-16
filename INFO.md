@@ -1,111 +1,65 @@
-I AM PLASTIC by Paul Budnitz
-Designer Art Toys-Curadurìa digital 
-Nov/ 02/ 2006
-
-A mediados de los años 90 comenzó un fenómeno que poco a poco se fue globalizando, abriendo las puertas a una nueva forma de expresión artística y de diseño. Los art toys denotan origen y cultura, y representan la intersección de distintos medios llevados a nuevos formatos y a la exploración de nuevas posibilidades creativas. A través de estas figuras icónicas, los artistas nos invitan a entrar en su mundo y de sus creadores,  nos cuentan historias entrañables, llenas de personalidades únicas y peculiaridades inconfundibles.
-
-I AM PLASTIC es un libro que reúne más de 300 de estas obras, creadas por diseñadores notables que en su momento generaron gran conversación. A continuación, exploraremos 5 figuras que distintos países que destacan la genialidad de este tipo de expresión..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I AM PLASTIC
+Designer Art Toys — Curaduría digital
+02 / NOV / 2006
+Por Paul Budnitz
+A mediados de los años 90 comenzó un fenómeno que poco a poco se fue globalizando, abriendo las puertas a una nueva forma de expresión artística y de diseño: los art toys.
+Estas figuras representan el origen y la cultura de sus creadores, además de ser la intersección de distintos medios llevados a nuevos formatos. A través de ellas, los artistas exploran nuevas posibilidades creativas y nos invitan a entrar en sus propios mundos, donde cada personaje cuenta historias llenas de personalidad y peculiaridades inconfundibles.
+I AM PLASTIC es un libro que reúne más de 300 de estas obras, creadas por diseñadores que, en su momento, generaron gran conversación dentro de esta nueva escena artística.
+A continuación, exploraremos 5 figuras provenientes de distintos países que destacan por la manera en que transforman el diseño, la cultura y la narrativa en objetos coleccionables.
 
 JAPÓN
-Gloomy Bear Vinyl Figure 
+GLOOMY BEAR
+Vinyl Figure
 Mori Chack
-En Tokyo Japón
-
-A pesar de su tierno color rosa Gloomy Bear demuestra que los impulsos sanguinarios no se puden controlar… 
-
-Mori Chack es un creador pionero del estilo Kawaii oscuro planteado como un estilo que resalta la sátira social e hipocresía del mundo actual. 
-Gloomy Bear, nació como una crítica a la cultura kawaii y a la falsa idea de que los animales salvajes pueden domesticarse. La historia gira en torno a Pity, un niño que rescata a un osezno abandonado que al crecer se convierte en un enorme oso grizzly de dos metros. A pesar de los constantes ataques y la naturaleza violenta de Gloomy, Pity nunca lo odia ni lo abandona, entendiendo que el oso solo actúa por instinto en este trágico pero tierno lazo. 
-
-
-https://gloomybearstore.com/?srsltid=AfmBOopmEwpDNN1UKDFiO2sQIhsiab_cnINp0HHYxk40jNW9NbOX434B
-(Chax Colony Edition) lanzada en 2004
-
-
-
-
-
-
-
+Tokyo, Japón
+Chax Colony Edition — 2004
+Tierno por fuera. Salvaje por naturaleza.
+A pesar de su tierno color rosa, Gloomy Bear demuestra que los impulsos sanguinarios no siempre pueden controlarse.
+Mori Chack es considerado uno de los creadores pioneros del kawaii oscuro, un estilo que utiliza elementos tiernos y caricaturescos para explorar la sátira social y la hipocresía del mundo actual.
+Gloomy Bear nació como una crítica a la cultura kawaii y a la falsa idea de que los animales salvajes pueden ser domesticados. La historia gira en torno a Pity, un niño que rescata a un osezno abandonado que, al crecer, se convierte en un enorme oso grizzly de dos metros.
+A pesar de los constantes ataques y de la naturaleza violenta de Gloomy, Pity nunca lo odia ni lo abandona. El oso simplemente actúa siguiendo su instinto, creando un vínculo tan trágico como tierno entre ambos.
+EXPLORE →
+gloomybearstore.com
 
 EUROPA
-Pete Fowler 
+MONSTERISM
+Pete Fowler
 Based in: UK
-Monsterium 
--Island Woodland Volume 3- Grynt
--Boris
+Monsterium
+— Island Woodland Volume 3 — Grynt
+— Boris
+Una peculiar isla donde solo alberga monstruos.
+Pete Fowler es un ilustrador freelance y autodenominado creador de monstruos, inspirado por el arte y la cultura japonesa.
+Su estilo postmoderno y caricaturesco se desarrolla a través de distintos medios, incluyendo el dibujo, la pintura y la escultura. Es principalmente conocido por ser el ilustrador de la banda Super Furry Animals, ayudando a construir su identidad visual a través de su trabajo artístico.
+Su obra gira alrededor de una narrativa central protagonizada por monstruos. Fowler construye mundos completos para sus personajes, combinando ilustración, diseño y narración.
+Para dar vida a estas creaciones, el artista desarrolló Monsterism, una isla habitada por criaturas místicas. Cada personaje cuenta con historias de fondo, características específicas, relaciones ecológicas y distintos niveles dentro de lo que Fowler denomina el “Monsterism”.
+EXPLORE →
+petefowlershop.com
 
-https://petefowlershop.com/dept/~drawings/
-
-Pete Fowler es un ilustrador freelance y autodenominado creador de monstruos inspirado por el arte japonés y su cultura. Su estilo postmoderno y caricaturezo crea variedad en distintos medios, incluyendo el dibujo, la pintura y escultura. El es principalmente conocido por ser el ilustrador principal de la banda Furry Animals, dandolè una identidad visual al estar conectado con las musica . 
-Su trabajo recurre a una narrativa central de monstruos, donde plasma sus mundos junto con personajes recurrentes. Para darle vida a sus creaciones Pete Fowler quiso crear una isla donde residen criaturas místicas. El artista diseñó intrincadas historias de fondo para cada personaje, otorgándoles rasgos específicos, relaciones ecológicas y diferentes niveles de lo que es el “Monsterism”.
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-USA:
+USA
 MARS-1
-Designer: Mario Martinez
-Nationality: American
-Based in San Fransisco, California
-link: https://mars-1.com/filter/SCULPTURE
+Designer: Mario Martínez
+American artist
+Based in: San Francisco, California
+Futuro tangible,¿Qué es lo que vemos más allá del hoy?.
+Mario Martínez, también conocido como MARS-1, desarrolla diversas obras de colección en vinilo que trascienden hacia el terreno de la escultura.
+La estética de MARS-1 se distingue por la creación de un lenguaje visual propio, nutrido tanto por referencias contemporáneas como por movimientos artísticos del pasado. Su proceso se encuentra en constante evolución y continúa expandiéndose con cada nueva serie de obras.
+Sus piezas exploran temas que van desde lo científico hasta fenómenos más esotéricos. La física teórica, la metamorfosis, la conciencia colectiva, la ufología y las posibilidades de otros mundos aparecen constantemente dentro de su universo visual.
+En sus esculturas también se encuentran referencias a las ciencias físicas y de la vida. Las energías transicionales, la multiplicidad natural, las hélices y las formas biológicas espontáneas se combinan para crear criaturas que parecen pertenecer a un mundo entre lo orgánico y lo extraterrestre.
+EXPLORE →
+mars-1.com
+SINGAPUR
+LMAC 
+Le Messie & Amanda Scully
+Founded: 2004
+Street wear, moda, musica y diseño, la convinaciòn perfecta. 
+LMAC, o Les Minimal Autistic Children, fue un sello de moda, música y arte fundado en 2004 en Singapur por Le Messie y Amanda Scully. La marca se hizo conocida por sus camisetas serigrafiadas, juguetes de diseñador junto con una estética oscura que mezclaba el streetwear con el arte.
+Dentro del universo de LMAC, sus figuras de vinilo destacan por medio de sus zombies tan peculiares, que representan la obsesión humana y la autodestrucción. Estas criaturas forman parte de un mundo ficticio que no existe únicamente a través de sus personajes, sino que también se complementa con la música electrónica que producía el propio Le Messie.
+De esta manera, LMAC convierte sus juguetes en una extensión de su universo artístico: moda, música, personajes y diseño conviven dentro de una misma narrativa.
+EXPLORE →
+LMAC / Retail Yakuza
 
-Mario Martínez, también conocido como MARS-1, tiene diversas obras de colección en vinilo que trascienden hacia lo escultórico. La estética de Mars-1 se distingue por su propio lenguaje de comunicación y estética, que se nutre tanto de referencias contemporáneas como de movimientos pasados. Su proceso es de constante evolución y continúa expandiéndose con cada nueva serie de obras, explorando conceptos que van más allá de su propia conciencia.
 
-Los temas explorados van desde lo más científico hasta fenómenos más esotéricos. Desde la física teórica, la metamorfosis y la conciencia colectiva, hasta la ufología y el examen de las posibilidades de principios de otros mundos, el vínculo relativo entre las ciencias físicas y de la vida se aplica a lo largo de todo. Las energías transicionales, la multiplicidad natural, las hélices y las ocurrencias biológicas espontáneas se unen. 
+Jerarquiza la informaciòn quiero que cada art toy tenga un tagline como el primer ejemplo y debe quedar con el estilo de una página web. igual corrige cualquier error ortográfico y estructura oraciones si lo ves necesario.  
 
-
-
-
-
-
-
-
-Singapur
-LMAC
-Diseñadores: Le Messie, Amanda Scully
-Nationality: Singapur
-2005
-
-
-Gehenom Zombie. Fue reada por LMAC en 2005 y producida por Flying Cat, la figura Zombie era una pieza curiosa de 7 pulgadas de altura. La parte superior de la cabeza era desmontable, lo que permitía ver el cerebro en su interior, y la maza con pinchos también se podía retirar. Asimismo, se lanzaron varias versiones con diseños de color creados por distintos artistas.
-
-LMAC es un sello de moda, música y arte fundado en 2004 en Singapur por Le Messie y Amanda Scully. Se hizo famoso por sus camisetas serigrafiadas, juguetes de diseñador y estética oscura. Colaboró con artistas y con Reebok. Su tienda Retail Yakuza fue un punto clave de la cultura streetwear local, y Lupe Fiasco la visitó y mencionó a sus fundadores en sus canciones. Le Messie es también director creativo de la marca FALSE y cofundador de la banda Japanese Cartoon.
-Dentro del propio universo de la marca ciertas figuras son mas prominentes como los zombies, que simbolizan la obsesión humana y la autodestrucción, todos viviendo dentro de un universo ficticio que se complementa con la música electrónica producida por el propio Le Messie. 
-
-Una de sus colecciones fue Gehenom Zombie. Creada por LMAC en 2005 y producida por Flying Cat, la figura Zombie era una pieza curiosa de 7 pulgadas de altura. La parte superior de la cabeza era desmontable, lo que permitía ver el cerebro en su interior, y la maza con pinchos también se podía retirar. Asimismo, se lanzaron varias versiones con diseños de color creados por distintos artistas.
-
-Actualmente ya no existe la aempresa pr lo que no hay informaciòn actual. 
 
