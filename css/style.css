@@ -6,13 +6,27 @@
   Variables reutilizables para mantener un sistema visual
   consistente en todo el documento.
 */
+@font-face {
+    font-family: 'sk-modernistregular';
+    src: url('sk-modernist-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 
+}
+@font-face {
+  font-family: 'ClashGrotesk-Light';
+  src: url('./ClashGrotesk-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
 :root {
+  --font-title: 'sk-modernistregular';
   --color-background: #f4f4f0;
   --color-text: #171717;
   --color-accent: #5b3df5;
 
-  --font-family-base: system-ui, Arial, Helvetica, sans-serif;
+  --font-family-base: 'ClashGrotesk-Light', system-ui, Arial, Helvetica, sans-serif;
 
   --font-size-body: 1rem;
   --font-size-h1: 3rem;
@@ -48,6 +62,10 @@ body {
 
   font-family: var(--font-family-base);
   font-size: var(--font-size-body);
+}
+
+h1 {
+  font-family: var('sk-modernistregular');
 }
 
 header {
