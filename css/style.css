@@ -82,8 +82,9 @@ h3 {
   font-size: var(--font-size-h3);
 }
 
-a {
-  color: var(--color-accent);
+a,
+a:visited {
+  color: #fff;
 }
 
 article {
@@ -95,7 +96,7 @@ article {
 
 
 section {
-  margin-bottom: 5em;
+  margin-bottom: 0em;
   padding: 7em 1em;
 }
 
@@ -103,15 +104,25 @@ nav {
   position: sticky;
   top: 0;
   margin: 0rem;
-  background-color: var(--color-background);
-  padding: 1em;
+  background-color: rgb(255, 1, 107);
+  padding: .5em;
   text-align: center;
+  color: var(--color-background);
 }
 
 nav a {
   padding: 0.5rem;
 }
 
+footer {
+
+  padding: 1em;
+  background-color: var(--color-accent);
+  color: var(--color-background);
+}a,
+a:visited {
+  color: #fff;
+}
 
 img {
   display: block;
@@ -126,16 +137,25 @@ img {
 
 #nuevos-formatos {
   background-color: var(--color-accent);
+  color: var(--color-background);
 }
 #Conoce-los-Toys {
-  
   background-color: rgb(255, 1, 107);
+  color: var(--color-background);
 }
 #Gloomy-Bear {
   background-color: var(--color-background);
-  padding: 0em 1em;
+  padding: 2em 2em;
 }
 #Monsterium {
   background-color: var(--color-background);
-  padding: 0em 1em;
+  padding: 2em 2em;
+}
+#Mars-1-x-Recon {
+  background-color: var(--color-background);
+  padding: 2em 2em;
+}
+#Gehenom-Zombie {
+  background-color: var(--color-background);
+  padding: 2em 2em;
 }
